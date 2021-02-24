@@ -1,4 +1,4 @@
-
+////////////////Exemplos em JavaScript///////////
 
 /*
 function clicou(){
@@ -97,9 +97,6 @@ if(idade> 18){
 }
 
 */
-
-
-
 
 
 /*
